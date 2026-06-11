@@ -2,6 +2,11 @@
 
 示例站点：https://daily.yybb.us
 
+![](https://img.naixiai.cn/2026/06/12/1781198705620.png)
+![](https://img.naixiai.cn/2026/06/12/1781198721956.png)
+![](https://img.naixiai.cn/2026/06/12/1781198737767.png)
+![](https://img.naixiai.cn/2026/06/12/1781198755823.png)
+
 ## 使用方法
 
 ```bash
